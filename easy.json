@@ -1,23 +1,170 @@
 [
-  {
-    "id": "1",
-    "name": "raigad fort",
-    "rating": "22000",
-    "imageUri": "https://www.indiamike.com/files/images/70/76/09/takmak-tok-at-raigad-fort.jpg",
-    "peopleRating": "2"
-  },
-  {
-    "id": "2",
-    "name": "Lohagad",
-    "rating": "1222",
-    "imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573645785/trekapp/detailpageimages/lohagad1_orxu8g.jpg",
-    "peopleRating": "2"
-  },
-  {
-    "id": "3",
-    "name": "tikona",
-    "rating": "33000",
-    "imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573654531/trekapp/detailpageimages/tikona/tikona3_jxjkfn.jpg",
-    "peopleRating": "2"
-  }
+	{
+		"id": "1",
+		"name": "raigad fort",
+		"rating": "22000",
+		"imageUri": "https://www.indiamike.com/files/images/70/76/09/takmak-tok-at-raigad-fort.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "2",
+		"name": "Lohagad",
+		"rating": "1222",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573645785/trekapp/detailpageimages/lohagad1_orxu8g.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "3",
+		"name": "tikona",
+		"rating": "33000",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573654531/trekapp/detailpageimages/tikona/tikona3_jxjkfn.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "1",
+		"name": "raigad fort",
+		"rating": "22000",
+		"imageUri": "https://www.indiamike.com/files/images/70/76/09/takmak-tok-at-raigad-fort.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "2",
+		"name": "Lohagad",
+		"rating": "1222",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573645785/trekapp/detailpageimages/lohagad1_orxu8g.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "3",
+		"name": "tikona",
+		"rating": "33000",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573654531/trekapp/detailpageimages/tikona/tikona3_jxjkfn.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "1",
+		"name": "raigad fort",
+		"rating": "22000",
+		"imageUri": "https://www.indiamike.com/files/images/70/76/09/takmak-tok-at-raigad-fort.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "2",
+		"name": "Lohagad",
+		"rating": "1222",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573645785/trekapp/detailpageimages/lohagad1_orxu8g.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "3",
+		"name": "tikona",
+		"rating": "33000",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573654531/trekapp/detailpageimages/tikona/tikona3_jxjkfn.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "1",
+		"name": "raigad fort",
+		"rating": "22000",
+		"imageUri": "https://www.indiamike.com/files/images/70/76/09/takmak-tok-at-raigad-fort.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "2",
+		"name": "Lohagad",
+		"rating": "1222",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573645785/trekapp/detailpageimages/lohagad1_orxu8g.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "3",
+		"name": "tikona",
+		"rating": "33000",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573654531/trekapp/detailpageimages/tikona/tikona3_jxjkfn.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "1",
+		"name": "raigad fort",
+		"rating": "22000",
+		"imageUri": "https://www.indiamike.com/files/images/70/76/09/takmak-tok-at-raigad-fort.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "2",
+		"name": "Lohagad",
+		"rating": "1222",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573645785/trekapp/detailpageimages/lohagad1_orxu8g.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "3",
+		"name": "tikona",
+		"rating": "33000",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573654531/trekapp/detailpageimages/tikona/tikona3_jxjkfn.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "1",
+		"name": "raigad fort",
+		"rating": "22000",
+		"imageUri": "https://www.indiamike.com/files/images/70/76/09/takmak-tok-at-raigad-fort.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "2",
+		"name": "Lohagad",
+		"rating": "1222",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573645785/trekapp/detailpageimages/lohagad1_orxu8g.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "3",
+		"name": "tikona",
+		"rating": "33000",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573654531/trekapp/detailpageimages/tikona/tikona3_jxjkfn.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "1",
+		"name": "raigad fort",
+		"rating": "22000",
+		"imageUri": "https://www.indiamike.com/files/images/70/76/09/takmak-tok-at-raigad-fort.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "2",
+		"name": "Lohagad",
+		"rating": "1222",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573645785/trekapp/detailpageimages/lohagad1_orxu8g.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "3",
+		"name": "tikona",
+		"rating": "33000",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573654531/trekapp/detailpageimages/tikona/tikona3_jxjkfn.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "1",
+		"name": "raigad fort",
+		"rating": "22000",
+		"imageUri": "https://www.indiamike.com/files/images/70/76/09/takmak-tok-at-raigad-fort.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "2",
+		"name": "Lohagad",
+		"rating": "1222",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573645785/trekapp/detailpageimages/lohagad1_orxu8g.jpg",
+		"peopleRating": "2"
+	},
+	{
+		"id": "3",
+		"name": "tikona",
+		"rating": "33000",
+		"imageUri": "https://res.cloudinary.com/dworlkdn8/image/upload/v1573654531/trekapp/detailpageimages/tikona/tikona3_jxjkfn.jpg",
+		"peopleRating": "2"
+	}
 ]
